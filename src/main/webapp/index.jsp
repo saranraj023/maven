@@ -1,7 +1,7 @@
 <html>
 <body>
 <h1><font color='purple'> Welcome to techworld - best frontend <font></h1>
-<h2>  softwore world </h2>
+<h2> softwore world </h2>
 
 <a href=" http://www.techeeworld.com/contact.php">Click Here To See techee world Schedules</a>
   
